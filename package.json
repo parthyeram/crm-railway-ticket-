@@ -1,0 +1,1 @@
+{"scripts":{"dev":"concurrently \"node backend/server.js\" \"vite frontend --host 0.0.0.0\"","build":"vite build frontend","start":"node backend/server.js"},"dependencies":{"@vitejs/plugin-react":"latest","concurrently":"latest","express":"latest","mysql2":"latest","react":"latest","react-dom":"latest","vite":"latest"},"devDependencies":{}}
